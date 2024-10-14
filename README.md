@@ -1,4 +1,4 @@
-# Video-club
+# DOCKERIZANDO-APP
 
 Task where we work with multiple managed repository options
 
@@ -27,7 +27,7 @@ git clone https://github.com/julianmonzon/video-club.git
 2. Navigate to the project directory:
 
 ```
-cd video-club
+cd DOCKERIZANDO-APP
 ```
 
 3. Create a virtual environment (optional but recommended):
